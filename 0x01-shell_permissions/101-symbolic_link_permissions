@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 chmod -h staff:vincent _hello
+=======
+chmod -h vincent:staff _hello
+>>>>>>> bec1c96c91db8e8be51111d40b01a0851ced1848
